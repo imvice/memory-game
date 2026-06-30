@@ -1,4 +1,5 @@
 # Memory Game
+A responsive browser memory matching game built with vanilla JavaScript.
 
 ## Features
 - Multiple categories
